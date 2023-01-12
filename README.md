@@ -13,4 +13,5 @@ main 9 - Faça um programa que leia dois valores inteiros e chame uma função q
 main 10 - Elaborar um programa que leia dois valores inteiros (A e B). Em seguida faça uma função que retorne a soma do dobro dos dois números lidos. A função deverá armazenar o dobro de A na própria variável A e o dobro de B na própria variável B. <br>
 main 11 - Crie um programa que contenha uma função que permita passar por parâmetro dois  números inteiros A e B. A função deverá calcular a soma entre estes dois números e armazenar o resultado na variável A. Esta função não deverá possuir retorno, mas deverá modificar o valor do primeiro parâmetro. Imprima os valores de A e B na função principal. <br>
 main 12 - Faça uma função que receba um vetor e o endereço de duas variáveis. Na primeira variável deve ser armazenado o menor valor e na segunda, quantas vezes o menor valor apareceu no vetor. <br>
-main 13 - Quantidade de alunos inscritos por mês.
+main 13 - Quantidade de alunos inscritos por mês. <br>
+main 14 - Cálculo de metabolismo basal.
