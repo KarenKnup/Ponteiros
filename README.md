@@ -1,5 +1,12 @@
 <div align="center">
-<h1>Ponteiros</h1><br><br> </div>
+<h1>Ponteiros</h1>
+
+<h3>Sobre / About</h3>
+
+`Ponteiros armazenam endereços de memória, permitindo manipulação direta de dados na memória e gerenciamento de memória mais eficiente.`
+
+`Pointers store memory addresses, allowing direct manipulation of data in memory and more efficient memory management.`
+</div>
 
 Arquivo | Conteúdo
 --------|-----------
